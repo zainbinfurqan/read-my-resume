@@ -184,9 +184,9 @@ const achievementSection = {
     {
       title: "Web App Developer",
       subtitle: "Completed Certifcation from Aptech for  Web App Development",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/aptech.png"),
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
+        { name: "Certification", url: "https://drive.google.com/file/d/10ju0JDivZa3h1EVo9-oY0yMqsixnSeWW/view?usp=sharing" },
       ]
     },
     // {
